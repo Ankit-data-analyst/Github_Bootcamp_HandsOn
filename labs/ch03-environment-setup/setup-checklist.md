@@ -1,5 +1,5 @@
-- [ ] Git installed
-- [ ] Python installed
-- [ ] GitHub account
-- [ ] user.name configured
-- [ ] user.email configured
+- [√] Git installed
+- [√] Python installed
+- [√] GitHub account
+- [√] user.name configured
+- [√] user.email configured
