@@ -1,2 +1,4 @@
 This is a temporary file that i am using to learn git stash command. 
 This is the new file that i am editing after using git stash command.
+
+I am changing this file to check the use of git stash command
