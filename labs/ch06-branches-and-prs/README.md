@@ -1,5 +1,11 @@
 # Branches and Pull Requests
 
+## Short Notes
+
+Customer email cleaning should trim whitespace
+and convert emails to lowercase before
+downstream matching.
+
 ## Objective
 
 Create a feature branch and open a PR.
